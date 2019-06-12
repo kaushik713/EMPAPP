@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="person" max_length="40" name="x_366549_empapp_person" type="collection">
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="name" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="gender" max_length="40" name="u_string_2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="male" sequence="0" value="male"/>
+                <element inactive_on_update="false" label="female" sequence="1" value="female"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

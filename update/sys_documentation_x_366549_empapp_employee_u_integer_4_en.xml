@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_integer_4" label="Salary" language="en" table="x_366549_empapp_employee">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_integer_4</element>
+            <help/>
+            <hint/>
+            <label>Salary</label>
+            <language>en</language>
+            <name>x_366549_empapp_employee</name>
+            <plural>Salaries</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-12 08:21:04</sys_created_on>
+            <sys_id>acc9bf28db023300ffc5e9c948961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Salary</sys_name>
+            <sys_package display_value="EMPAPP" source="x_366549_empapp">5e943fe0db023300ffc5e9c948961925</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EMPAPP">5e943fe0db023300ffc5e9c948961925</sys_scope>
+            <sys_update_name>sys_documentation_x_366549_empapp_employee_u_integer_4_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-12 08:21:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
